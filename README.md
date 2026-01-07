@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Jahir 👋</h1>
+<h1 align="center">Hola, soy Jahir 👋🏻</h1>
 
 <p align="center">
 Estudiante de Ciencias de la Computación — amante del desarrollo web y la tecnología 🚀  
@@ -6,7 +6,7 @@ Estudiante de Ciencias de la Computación — amante del desarrollo web y la tec
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨🏻‍💻 Sobre mí
 
 - 🎓 Actualmente estudiando Computer Science
 - 💻 Me gusta crear proyectos para aprender y practicar
