@@ -33,8 +33,6 @@ Estudiante de Ciencias de la Computación — amante del desarrollo web y la tec
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55"/>
 
-<img src="https://raw.githubusercontent.com/marcoshsq/pgadmin4-docker/master/docs/images/pgadmin4.png" width="55"/>
-
 </p>
 
 ---
