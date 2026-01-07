@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Jahir 👋</h1>
 
-<!--
-**jahirmex/jahirmex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Estudiante de Ciencias de la Computación — amante del desarrollo web y la tecnología 🚀  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mí
+
+- 🎓 Actualmente estudiando Computer Science
+- 💻 Me gusta crear proyectos para aprender y practicar
+- 🌱 Siempre aprendiendo algo nuevo
+- ✨ Objetivo: convertirme en un gran desarrollador
+
+---
+
+## 🛠️ Herramientas y Tecnologías
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55"/>
+
+<img src="https://www.pgadmin.org/static/docs/img/logo-right-170.png" width="55"/>
+
+</p>
+
+---
+
+## 📌 Actualmente trabajando en
+
+- 🔧 Mi portafolio
+- 💻 Proyectos pequeños de práctica
+- 📚 Mejorando mis habilidades en desarrollo web
+
+---
+
+## 📫 Cómo contactarme
+
+📧 **gmail:** garciajahirmex@gmail.com  
+🌐 Portafolio: https://jahirmex.github.io/jahirportafolio.github.io/
+
+---
+
+⭐ Si te gustan mis proyectos, no dudes en dejar un ⭐ — ¡me ayuda a motivarme!
