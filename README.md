@@ -1,14 +1,14 @@
 <h1 align="center">Hola, soy Jahir 👋🏻</h1>
 
 <p align="center">
-Estudiante de Ciencias de la Computación — amante del desarrollo web y la tecnología 🚀  
+Estudiante de Ingenieria en Desarrollo y Gestión de Software — amante del desarrollo web y la tecnología 🚀  
 </p>
 
 ---
 
 ### 👨🏻‍💻 Sobre mí
 
-- 🎓 Actualmente estudiando Computer Science
+- 🎓 Actualmente estudiando 
 - 💻 Me gusta crear proyectos para aprender y practicar
 - 🌱 Siempre aprendiendo algo nuevo
 - ✨ Objetivo: convertirme en un gran desarrollador
